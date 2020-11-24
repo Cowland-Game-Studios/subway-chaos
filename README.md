@@ -9,8 +9,24 @@ As a result of its lack of publicity, future updates were scrapped. At the time,
 
 You see... The *slight* problem listed above burnt a hole in our plans. There were several tests of the game in early Alpha development phases, but it never even made it to beta. In fact, [this is the closest thing we've gotten to a release.](https://scratch.mit.edu/projects/300625038)
 
+So we scrapped other sprites intended to be used for airplane sim and made [this](https://scratch.mit.edu/projects/300729731) (which was a hit in our books)
+
 OK OK, I'll stop with the backstory, ya'll may ask. Why did you guys redo it then if it "wasn't worth your time".
 
 Good question...
 
-After *Subway Chaos:Manhattan* we discovered it was actually really fun for **MOBILE**. We were able to drag the "trains" (more like blocks) with ease on the iPad and iPhone. Apart from that, we realized that the main source of letdownness was the *graphics*. It was before Scratch adopted an SVG editor (oh no... the dark ages), and every pixel was painstakingly drawn on or everything was made with cubes and spheres. We chose the latter, as we had no time to design. (which led to no traffic) 
+After *Subway Chaos:Manhattan* we discovered it was actually really *fun* for **MOBILE**. We were able to drag the "trains" (more like blocks) with ease on the iPad and iPhone. Apart from that, we realized that the main source of frustration was the *graphics*. It was before Scratch adopted an SVG editor (oh no... the dark ages), and every pixel was painstakingly drawn on or everything was made with cubes and spheres. We chose the latter, as we had no time to design. (which led to no traffic). We also learned a valueable lesson from *Crash: The desert survival game*. We had a storyline thought out, graphics drawn, and about *two weeks* was spent to make it, which is *7x longer than 2 days*... No suprise, it also recieved more than 7x the attention. So now, we are willing to remaster a game in which we see potential and are willing to work hard to achieve results.
+
+##Specifications (links to tutorial)
+
+Unreal Engine 4.22.3 downloaded
+
+Visual Studio/Xcode downloaded
+
+Windows 10 Home/Pro
+
+MacOs Mojave 10.14.6
+
+## License
+
+TBA
