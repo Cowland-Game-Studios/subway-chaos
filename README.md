@@ -17,7 +17,7 @@ Good question...
 
 After *Subway Chaos:Manhattan* we discovered it was actually really *fun* for **MOBILE**. We were able to drag the "trains" (more like blocks) with ease on the iPad and iPhone. Apart from that, we realized that the main source of frustration was the *graphics*. It was before Scratch adopted an SVG editor (oh no... the dark ages), and every pixel was painstakingly drawn on or everything was made with cubes and spheres. We chose the latter, as we had no time to design. (which led to no traffic). We also learned a valueable lesson from *Crash: The desert survival game*. We had a storyline thought out, graphics drawn, and about *two weeks* was spent to make it, which is *7x longer than 2 days*... No suprise, it also recieved more than 7x the attention. So now, we are willing to remaster a game in which we see potential and are willing to work hard to achieve results.
 
-[Read the rest on itch.io project page](https://cowland.itch.io/soobwae-khaos)
+[Read the rest and more on itch.io project page](https://cowland.itch.io/soobwae-khaos)
 
 ## Specifications (links to tutorial)
 
