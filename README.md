@@ -19,15 +19,18 @@ After *Subway Chaos:Manhattan* we discovered it was actually really *fun* for **
 
 [Read the rest and more on itch.io project page](https://cowland.itch.io/soobwae-khaos)
 
-## Specifications (links to tutorial)
+## Downloads Required
 
-Unreal Engine 4.22.3 downloaded
+Download the game here:
 
-Visual Studio/Xcode downloaded
+<iframe frameborder="0" src="https://itch.io/embed/833312?bg_color=000000&amp;fg_color=ffffff&amp;link_color=5baafa&amp;border_color=4e4e4e" width="552" height="167"><a href="https://mootbing.itch.io/soobwae-khaos%22%3ESubway Chaos by Mootbing, BotMoooo</a></iframe>
 
-Windows 10 Home/Pro
+However to download the source code you'd need:
 
-MacOs Mojave 10.14.6
+- Unreal Engine 4.22.3 downloaded
+- Visual Studio/Xcode downloaded
+- Windows 10 Home/Pro
+- MacOs Mojave 10.14.6
 
 ## License
 
