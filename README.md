@@ -24,7 +24,7 @@ After *Subway Chaos:Manhattan* we discovered it was actually really *fun* for **
 Download the game here:
 
 <a href="https://cowland.itch.io/soobwae-khaos">
-<img border="1" alt="Link to website: https://cowland.itch.io/soobwae-khaos" src="https://i.ibb.co/3SPhYs6/embedd.png" width="350" height="100">
+<img border="1" alt="Link to website: https://cowland.itch.io/soobwae-khaos" src="https://i.ibb.co/3SPhYs6/embedd.png" width="525" height="150">
 </a>
 
 However to download the source code you'd need:
