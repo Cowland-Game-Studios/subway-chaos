@@ -1,12 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.22",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ApexDestruction",
-			"Enabled": true
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:53f3e4ad7924d711718d4366a430730897767f881fbf58fb1ef43df9c1b1fb81
+size 163
