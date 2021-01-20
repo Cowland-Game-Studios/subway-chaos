@@ -17,15 +17,22 @@ Good question...
 
 After *Subway Chaos:Manhattan* we discovered it was actually really *fun* for **MOBILE**. We were able to drag the "trains" (more like blocks) with ease on the iPad and iPhone. Apart from that, we realized that the main source of frustration was the *graphics*. It was before Scratch adopted an SVG editor (oh no... the dark ages), and every pixel was painstakingly drawn on or everything was made with cubes and spheres. We chose the latter, as we had no time to design. (which led to no traffic). We also learned a valueable lesson from *Crash: The desert survival game*. We had a storyline thought out, graphics drawn, and about *two weeks* was spent to make it, which is *7x longer than 2 days*... No suprise, it also recieved more than 7x the attention. So now, we are willing to remaster a game in which we see potential and are willing to work hard to achieve results.
 
-##Specifications (links to tutorial)
+[Read the rest and more on itch.io project page](https://cowland.itch.io/soobwae-khaos)
 
-Unreal Engine 4.22.3 downloaded
+## Downloads Required
 
-Visual Studio/Xcode downloaded
+Download the game here:
 
-Windows 10 Home/Pro
+<a href="https://cowland.itch.io/soobwae-khaos">
+<img border="1" alt="Link to website: https://cowland.itch.io/soobwae-khaos" src="https://i.ibb.co/3SPhYs6/embedd.png" width="525" height="150">
+</a>
 
-MacOs Mojave 10.14.6
+However to download the source code you'd need:
+
+- Unreal Engine 4.22.3 downloaded
+- Visual Studio/Xcode downloaded
+- Windows 10 Home/Pro
+- MacOs Mojave 10.14.6
 
 ## License
 
